@@ -1,5 +1,5 @@
 ### Hi there 👋
-beckend, iOS, Android Developer
+Backend, iOS, Android Developer
 
 <!--
 **learnGrowD/learnGrowD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
